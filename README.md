@@ -8,7 +8,8 @@ This repository has the code to demonstrate use of NHS Staff Statistics data and
 <br><br><br>
 Here are some screenshots of the dashboard below:
 <hr>
-![staff_summary](https://github.com/prajwalkhairnar/nhs_staff_statistics/assets/67052212/b6a9c8b6-b4d2-4d06-9882-c48c2ea381bf)
+<img src = 'https://github.com/prajwalkhairnar/nhs_staff_statistics/assets/67052212/b6a9c8b6-b4d2-4d06-9882-c48c2ea381bf'>
+
 <br>
 ![staff_plots](https://github.com/prajwalkhairnar/nhs_staff_statistics/assets/67052212/210a8268-7d5a-4da4-adb8-a119680a444b)
 <br>
