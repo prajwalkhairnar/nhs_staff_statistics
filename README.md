@@ -2,7 +2,10 @@
 
 This repository has the code to demonstrate use of NHS Staff Statistics data and create a RShiny WebApp for visualization.
 
+<b>Data: <a href = 'https://digital.nhs.uk/data-and-information/publications/statistical/nhs-workforce-statistics/february-2023'>NHS Digital</a> </b>
+
 <b>The dashboard is hosted on <a href='https://prajwalkhairnar.shinyapps.io/nhs-workforce-statistics/'>Shinyapps here</a>. </b>
+
 
 
 <br><br><br>
